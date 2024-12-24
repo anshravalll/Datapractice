@@ -4,8 +4,8 @@ It's a simple self learning assignment for numpy, pandas, and some basic machine
 
 Aggregation function
 	
-Lasso regression
+Lasso regression using sci-kit learn
 
-Moving average
+Moving average using numpy
 
-Time series analysis
+Time series analysis on daily climate dataset
