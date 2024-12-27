@@ -2,12 +2,12 @@ It's a simple self learning assignment for numpy, pandas, and some basic machine
 
 The projects are as follow:
 
-3d visualizations
+1. 3d visualizations
 
-Aggregation function
+2. Aggregation function
 	
-Lasso regression using sci-kit learn
+3. Lasso regression using sci-kit learn
 
-Moving average using numpy
+4. Moving average using numpy
 
-Time series analysis on daily climate dataset
+5. Time series analysis on daily climate dataset
