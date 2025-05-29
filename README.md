@@ -6,7 +6,7 @@ The projects are as follow:
 
 2. Aggregation function.
 	
-3. Lasso regression using sci-kit learn.
+3. Lasso regression using scikit learn.
 
 4. Moving average using numpy.
 
